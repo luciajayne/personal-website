@@ -13,7 +13,7 @@ Human-Centered Computing Master’s degree student with an academic background i
 **Resume**
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRpHNvUHxMTfSIUMejdcWFLPx10KaCRj-G8WoNRarYzbxIxTMOV2WD9liGMdJb-BWSNTOSulz75Ee_o/pub?embedded=true" frameborder="0" width="540" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[Resume](content/resume.pdf)
+[Download Resume](content/resume.pdf)
 
 - [Home](index)
 - [Projects](03-projects)
