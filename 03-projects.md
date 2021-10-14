@@ -15,4 +15,4 @@ Pitch and Business Analysis
 
 **Summit County Gear Library**
 Venture Pitch
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToCi6mti_J-TYg80TT-walROBFTi5OGgyWuYcgQxegli5ilUAPUMdVHRVPf2fGtzjKriyayrbdCJqQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToCi6mti_J-TYg80TT-walROBFTi5OGgyWuYcgQxegli5ilUAPUMdVHRVPf2fGtzjKriyayrbdCJqQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="344" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
