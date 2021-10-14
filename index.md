@@ -10,6 +10,8 @@ nav_order: 1
 
 Human-Centered Computing Master’s degree student with an academic background in Computer Science and Business. Additionally, several customer-facing experiences working in fast-paced environments such as five-star hotels, education and healthcare have strengthened my client relationships skills.
 
+**Resume**
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRpHNvUHxMTfSIUMejdcWFLPx10KaCRj-G8WoNRarYzbxIxTMOV2WD9liGMdJb-BWSNTOSulz75Ee_o/pub?embedded=true"></iframe>
 [Resume](content/resume.pdf)
 
 - [Home](index)
